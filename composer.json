@@ -1,0 +1,7 @@
+{
+    "require": {
+        "twig/twig": "1.*",
+        "mikecao/flight": "dev-master",
+        "php-activerecord/php-activerecord": "dev-master"
+    }
+}
